@@ -3,19 +3,12 @@
 //  Purpose: To Inspire
 // Revision: 0.0.1
 
-void main(faith) {
+int main(faith) {
     while(true) {
         read();
         think();
         write();
-        else if(tired){
-            sleep();
-        }
-        if(hungry){
-            eat();
-        }
-        if(needToPoop){
-            poop();
-        }
+        if(happyWithResults)
+            return 0;
     }
 }
